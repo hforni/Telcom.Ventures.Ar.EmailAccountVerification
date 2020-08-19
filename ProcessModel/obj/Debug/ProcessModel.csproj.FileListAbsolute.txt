@@ -1,0 +1,6 @@
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ProcessModel\bin\Debug\ProcessModel.dll
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ProcessModel\bin\Debug\ProcessModel.pdb
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ProcessModel\obj\Debug\ProcessModel.csprojAssemblyReference.cache
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ProcessModel\obj\Debug\ProcessModel.csproj.CoreCompileInputs.cache
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ProcessModel\obj\Debug\ProcessModel.dll
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ProcessModel\obj\Debug\ProcessModel.pdb

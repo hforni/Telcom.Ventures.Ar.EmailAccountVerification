@@ -1,0 +1,9 @@
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ServiceModel\bin\Debug\ServiceModel.dll
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ServiceModel\bin\Debug\ServiceModel.pdb
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ServiceModel\bin\Debug\Newtonsoft.Json.dll
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ServiceModel\bin\Debug\Newtonsoft.Json.xml
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ServiceModel\obj\Debug\ServiceModel.csprojAssemblyReference.cache
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ServiceModel\obj\Debug\ServiceModel.csproj.CoreCompileInputs.cache
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ServiceModel\obj\Debug\ServiceModel.csproj.CopyComplete
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ServiceModel\obj\Debug\ServiceModel.dll
+C:\github\EmailAccountVerification-master\WebApiEmailAccountVerification\ServiceModel\obj\Debug\ServiceModel.pdb
